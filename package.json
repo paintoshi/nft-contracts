@@ -1,0 +1,13 @@
+{
+  "name": "nft-contracts",
+  "version": "1.0.0",
+  "description": "nft-contracts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paintoshi",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1"
+  }
+}
